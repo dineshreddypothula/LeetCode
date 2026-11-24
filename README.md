@@ -113,7 +113,7 @@ Hard    ████████████████  ~100+
 
 ## 🔗 Related
 
-- **LeetCode Profile:** [PDineshreddy84](https://leetcode.com/PDineshreddy84/)
+- **LeetCode Profile:** [Dinesh_48](https://leetcode.com/Dinesh_48/)
 - **GitHub:** [dineshreddypothula](https://github.com/dineshreddypothula)
 
 ---
